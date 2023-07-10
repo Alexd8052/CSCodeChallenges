@@ -1,0 +1,15 @@
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\Multiples3sAnd5s\bin\Debug\net6.0\Multiple3sAnd5s.exe
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\Multiples3sAnd5s\bin\Debug\net6.0\Multiple3sAnd5s.deps.json
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\Multiples3sAnd5s\bin\Debug\net6.0\Multiple3sAnd5s.runtimeconfig.json
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\Multiples3sAnd5s\bin\Debug\net6.0\Multiple3sAnd5s.dll
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\Multiples3sAnd5s\bin\Debug\net6.0\Multiple3sAnd5s.pdb
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\Multiples3sAnd5s\obj\Debug\net6.0\Multiple3sAnd5s.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\Multiples3sAnd5s\obj\Debug\net6.0\Multiple3sAnd5s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\Multiples3sAnd5s\obj\Debug\net6.0\Multiple3sAnd5s.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\Multiples3sAnd5s\obj\Debug\net6.0\Multiple3sAnd5s.AssemblyInfo.cs
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\Multiples3sAnd5s\obj\Debug\net6.0\Multiple3sAnd5s.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\Multiples3sAnd5s\obj\Debug\net6.0\Multiple3sAnd5s.dll
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\Multiples3sAnd5s\obj\Debug\net6.0\refint\Multiple3sAnd5s.dll
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\Multiples3sAnd5s\obj\Debug\net6.0\Multiple3sAnd5s.pdb
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\Multiples3sAnd5s\obj\Debug\net6.0\Multiple3sAnd5s.genruntimeconfig.cache
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\Multiples3sAnd5s\obj\Debug\net6.0\ref\Multiple3sAnd5s.dll
