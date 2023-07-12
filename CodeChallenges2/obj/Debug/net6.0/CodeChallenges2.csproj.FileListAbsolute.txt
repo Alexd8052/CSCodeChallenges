@@ -1,0 +1,15 @@
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\CodeChallenges2\bin\Debug\net6.0\CodeChallenges2.exe
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\CodeChallenges2\bin\Debug\net6.0\CodeChallenges2.deps.json
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\CodeChallenges2\bin\Debug\net6.0\CodeChallenges2.runtimeconfig.json
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\CodeChallenges2\bin\Debug\net6.0\CodeChallenges2.dll
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\CodeChallenges2\bin\Debug\net6.0\CodeChallenges2.pdb
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\CodeChallenges2\obj\Debug\net6.0\CodeChallenges2.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\CodeChallenges2\obj\Debug\net6.0\CodeChallenges2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\CodeChallenges2\obj\Debug\net6.0\CodeChallenges2.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\CodeChallenges2\obj\Debug\net6.0\CodeChallenges2.AssemblyInfo.cs
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\CodeChallenges2\obj\Debug\net6.0\CodeChallenges2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\CodeChallenges2\obj\Debug\net6.0\CodeChallenges2.dll
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\CodeChallenges2\obj\Debug\net6.0\refint\CodeChallenges2.dll
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\CodeChallenges2\obj\Debug\net6.0\CodeChallenges2.pdb
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\CodeChallenges2\obj\Debug\net6.0\CodeChallenges2.genruntimeconfig.cache
+C:\Users\Student\Documents\Visual Studio 2022\Projects\04_CFS3\CSCodeChallenges\CodeChallenges2\obj\Debug\net6.0\ref\CodeChallenges2.dll
